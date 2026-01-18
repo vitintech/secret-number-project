@@ -1,4 +1,4 @@
-let numerosPossiveis = 25;
+let numerosPossiveis = 35;
 let listaNumerosSorteados = [];
 
 // função para chamarmos uma tag do index.html
